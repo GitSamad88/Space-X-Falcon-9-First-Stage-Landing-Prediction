@@ -11,6 +11,7 @@ This project analyzes SpaceX launch data and builds a machine learning pipeline 
 ## Goals
 
 - Explore the launch dataset
+- Build a Plotly Dash application to perform interactive visual analytics on SpaceX launch data in real-time
 - Prepare features and labels for model training
 - Train and compare classification models
 - Evaluate model performance and select the best approach
